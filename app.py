@@ -1,4 +1,4 @@
-"""航空市场分析自动化工具 Streamlit MVP。"""
+"""Aviation Market Analysis Automation Tool Streamlit MVP。"""
 
 from __future__ import annotations
 
